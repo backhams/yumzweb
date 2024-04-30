@@ -1,4 +1,3 @@
-"use client"
 import Link from 'next/link';
 import React, { useState } from 'react';
 
@@ -12,7 +11,7 @@ const Navbar = () => {
     return (
         <header className="flex justify-between items-center py-4 bg-black">
             <div className="text-5xl font-semibold text-white">Yumz</div>
-            <div className="space-x-4">
+            <div className="space-x-4 flex items-center">
                 <Link href="/" className="hover:text-green-300 hover:underline text-white">Home</Link>
                 <Link href="#" className="hover:text-green-300 hover:underline text-white">Services</Link>
                 <Link href="#" className="hover:text-green-300 hover:underline text-white">About Us</Link>
@@ -27,7 +26,7 @@ const Navbar = () => {
                     {isDropdownOpen && (
                         <div className="origin-top-right absolute right-0 mt-2 w-56 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5" role="menu" aria-orientation="vertical" aria-labelledby="options-menu">
                             <div className="py-1" role="none">
-                                <Link href="restaurant_partnership_agreement" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 text" role="menuitem">Restaurant Partnership Agreement</Link>
+                                <Link href="restaurant_partnership_agreement" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Restaurant Partnership Agreement</Link>
                                 <Link href="delivery_partnership" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Delivery Partnership Agreement</Link>
                                 <Link href="privacy_policy" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Privacy Policy</Link>
                             </div>
