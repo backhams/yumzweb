@@ -43,11 +43,11 @@ export default function DeliveryPartnerShipAgreement() {
                 </p>
                 <h2 className="text-xl font-bold mb-2">Account Verification:</h2>
                 <p className="mb-4">
-                    The Delivery Partner's account shall be verified by the Company prior to commencing deliveries. Verification may include providing identification documents and completing a background check.
+                    The Delivery Partner&apos;s account shall be verified by the Company prior to commencing deliveries. Verification may include providing identification documents and completing a background check.
                 </p>
                 <h2 className="text-xl font-bold mb-2">Termination:</h2>
                 <p className="mb-4">
-                    Either party may terminate this Agreement upon written notice to the other party. The Company reserves the right to terminate the Delivery Partner's account for any violation of this Agreement or failure to meet performance standards.
+                    Either party may terminate this Agreement upon written notice to the other party. The Company reserves the right to terminate the Delivery Partner&apos;s account for any violation of this Agreement or failure to meet performance standards.
                 </p>
                 <h2 className="text-xl font-bold mb-2">Dispute Resolution:</h2>
                 <p className="mb-4">

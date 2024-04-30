@@ -15,7 +15,7 @@ export default function RestaurantPartnershipAgreement() {
                 </p>
                 <h2 className="text-xl font-bold mb-2">Purpose:</h2>
                 <p className="mb-4">
-                    The purpose of this Agreement is to establish a partnership between Platform Provider and Restaurant for the provision of restaurant services through the Platform Provider's platform.
+                    The purpose of this Agreement is to establish a partnership between Platform Provider and Restaurant for the provision of restaurant services through the Platform Provider&apos;s platform.
                 </p>
                 <h2 className="text-xl font-bold mb-2">Term:</h2>
                 <p className="mb-4">
