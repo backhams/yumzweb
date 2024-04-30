@@ -7,10 +7,10 @@ export default function DeliveryPartnerShipAgreement() {
     return (
         <>
             <div className='container mx-auto px-4 sm:px-6 lg:px-8 pt-4'>
-            <Navbar />
+                <Navbar />
                 <h1 className="text-2xl font-bold mb-4 mt-10">Delivery Partner Agreement</h1>
                 <p className="mb-4">
-                    This Delivery Partner Agreement ("Agreement") is entered into as of [Date], by and between [Your Company Name], a company organized and existing under the laws of [Jurisdiction], with its principal place of business at [Address] ("Company"), and [Delivery Partner Name], an individual residing at [Delivery Partner Address] ("Delivery Partner").
+                    This Delivery Partner Agreement (&quot;Agreement&quot;) is entered into as of [Date], by and between [Your Company Name], a company organized and existing under the laws of [Jurisdiction], with its principal place of business at [Address] (&quot;Company&quot;), and [Delivery Partner Name], an individual residing at [Delivery Partner Address] (&quot;Delivery Partner&quot;).
                 </p>
                 <h2 className="text-xl font-bold mb-2">Purpose:</h2>
                 <p className="mb-4">
