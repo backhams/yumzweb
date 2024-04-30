@@ -10,11 +10,11 @@ export default function RestaurantPartnershipAgreement() {
                 <Navbar />
                 <h1 className="text-2xl font-bold mb-4 mt-10 text-white">Restaurant Partnership Agreement</h1>
                 <p className="mb-4 text-white">
-                    This Restaurant Partnership Agreement ("Agreement") is entered into as of [Date], by and between [Platform Provider], a company organized and existing under the laws of [Jurisdiction], with its principal place of business at [Address] ("Platform Provider"), and [Restaurant Name], a restaurant located at [Restaurant Address] ("Restaurant").
+                    This Restaurant Partnership Agreement (&quot;Agreement&quot;) is entered into as of [Date], by and between [Platform Provider], a company organized and existing under the laws of [Jurisdiction], with its principal place of business at [Address] (&quot;Platform Provider&quot;), and [Restaurant Name], a restaurant located at [Restaurant Address] (&quot;Restaurant&quot;).
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Purpose:</h2>
                 <p className="mb-4 text-white">
-                    The purpose of this Agreement is to establish a partnership between Platform Provider and Restaurant for the provision of restaurant services through the Platform Provider's platform.
+                    The purpose of this Agreement is to establish a partnership between Platform Provider and Restaurant for the provision of restaurant services through the Platform Provider&apos;s platform.
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Term:</h2>
                 <p className="mb-4 text-white">
@@ -57,16 +57,16 @@ export default function RestaurantPartnershipAgreement() {
                 <p className="mb-4 text-white">
                     This Agreement may be amended or modified only by a written instrument executed by both parties.
                 </p>
-                <p className="text-white">
+                <p className='text-white'>
                     IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date first above written.
                 </p>
-                <p className="text-white">
+                <p className='text-white'>
                     [Signature of Platform Provider] [Signature of Restaurant]
                 </p>
-                <p className="text-white">
+                <p className='text-white'>
                     [Printed Name and Title] [Printed Name and Title]
                 </p>
-                <p className="text-white">
+                <p className='text-white'>
                     [Date] [Date]
                 </p>
                 <Footer/>
@@ -74,5 +74,4 @@ export default function RestaurantPartnershipAgreement() {
         </>
     );
 }
-
 

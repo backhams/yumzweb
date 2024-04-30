@@ -10,7 +10,7 @@ export default function DeliveryPartnerShipAgreement() {
                 <Navbar />
                 <h1 className="text-2xl font-bold mb-4 mt-10 text-white">Delivery Partner Agreement</h1>
                 <p className="mb-4 text-white">
-                    This Delivery Partner Agreement ("Agreement") is entered into as of [Date], by and between [Your Company Name], a company organized and existing under the laws of [Jurisdiction], with its principal place of business at [Address] ("Company"), and [Delivery Partner Name], an individual residing at [Delivery Partner Address] ("Delivery Partner").
+                    This Delivery Partner Agreement (&quot;Agreement&quot;) is entered into as of [Date], by and between [Your Company Name], a company organized and existing under the laws of [Jurisdiction], with its principal place of business at [Address] (&quot;Company&quot;), and [Delivery Partner Name], an individual residing at [Delivery Partner Address] (&quot;Delivery Partner&quot;).
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Purpose:</h2>
                 <p className="mb-4 text-white">
@@ -38,35 +38,35 @@ export default function DeliveryPartnerShipAgreement() {
                     <li>Ensure that all delivered items are handled with care and delivered intact.</li>
                 </ul>
                 <h2 className="text-xl font-bold mb-2 text-white">Payment:</h2>
-                <p className="mb-4 text-white">
+                <p className="mb-4">
                     The Company shall pay the Delivery Partner a fee for each completed delivery, as agreed upon by both parties. Payments shall be made on a [frequency] basis via [payment method].
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Account Verification:</h2>
-                <p className="mb-4 text-white">
-                    The Delivery Partner's account shall be verified by the Company prior to commencing deliveries. Verification may include providing identification documents and completing a background check.
+                <p className="mb-4">
+                    The Delivery Partner&apos;s account shall be verified by the Company prior to commencing deliveries. Verification may include providing identification documents and completing a background check.
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Termination:</h2>
-                <p className="mb-4 text-white">
-                    Either party may terminate this Agreement upon written notice to the other party. The Company reserves the right to terminate the Delivery Partner's account for any violation of this Agreement or failure to meet performance standards.
+                <p className="mb-4">
+                    Either party may terminate this Agreement upon written notice to the other party. The Company reserves the right to terminate the Delivery Partner&apos;s account for any violation of this Agreement or failure to meet performance standards.
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Dispute Resolution:</h2>
-                <p className="mb-4 text-white">
+                <p className="mb-4">
                     In the event of a dispute regarding a delivery, the Delivery Partner and the Company shall work together to resolve the issue. If a resolution cannot be reached, the matter may be escalated to arbitration or mediation.
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Failure to Deliver:</h2>
-                <p className="mb-4 text-white">
+                <p className="mb-4">
                     If an order fails to be delivered for any reason, it will be marked as a dispute and investigated by the Company. The Delivery Partner may be required to provide an explanation and evidence regarding the failed delivery.
                 </p>
-                <p className="text-white">
+                <p>
                     IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date first above written.
                 </p>
-                <p className="text-white">
+                <p>
                     [Signature of Company] [Signature of Delivery Partner]
                 </p>
-                <p className="text-white">
+                <p>
                     [Printed Name and Title] [Printed Name and Title]
                 </p>
-                <p className="text-white">
+                <p>
                     [Date] [Date]
                 </p>
                 <Footer/>
@@ -74,4 +74,3 @@ export default function DeliveryPartnerShipAgreement() {
         </>
     );
 }
-

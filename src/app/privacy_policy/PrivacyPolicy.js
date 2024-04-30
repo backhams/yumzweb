@@ -10,7 +10,7 @@ export default function PrivacyPolicy() {
                 <Navbar />
                 <h1 className="text-2xl font-bold mb-4 mt-10 text-white">Privacy Policy</h1>
                 <p className="mb-4 text-white">
-                    This Privacy Policy ("Policy") explains how [Your Company Name] collects, uses, and discloses personal information collected from users ("User" or "Users") of the [Your Website or App] website or mobile application ("Service").
+                    This Privacy Policy (&quot;Policy&quot;) explains how [Your Company Name] collects, uses, and discloses personal information collected from users (&quot;User&quot; or &quot;Users&quot;) of the [Your Website or App] website or mobile application (&quot;Service&quot;).
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Information Collection and Use:</h2>
                 <p className="mb-4 text-white">
@@ -18,7 +18,7 @@ export default function PrivacyPolicy() {
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">How We Use Collected Information:</h2>
                 <p className="mb-4 text-white">
-                    [Your Company Name] may collect and use Users' personal information for the following purposes:
+                    [Your Company Name] may collect and use Users&apos; personal information for the following purposes:
                 </p>
                 <ul className="list-disc ml-6 mb-4 text-white">
                     <li>To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.</li>
@@ -36,13 +36,13 @@ export default function PrivacyPolicy() {
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Collection and Use of Non-Personal Information:</h2>
                 <p className="mb-4 text-white">
-                    We may collect non-personal information about Users whenever they interact with our Service. Non-personal information may include the browser name, the type of computer, and technical information about Users' means of connection to our Service, such as the operating system and the Internet service providers utilized, and other similar information.
+                    We may collect non-personal information about Users whenever they interact with our Service. Non-personal information may include the browser name, the type of computer, and technical information about Users&apos; means of connection to our Service, such as the operating system and the Internet service providers utilized, and other similar information.
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Changes to this Privacy Policy:</h2>
                 <p className="mb-4 text-white">
                     [Your Company Name] has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
                 </p>
-                <p className="text-white">
+                <p className='text-white'>
                     This Privacy Policy was last updated on [Date].
                 </p>
                 <Footer/>
