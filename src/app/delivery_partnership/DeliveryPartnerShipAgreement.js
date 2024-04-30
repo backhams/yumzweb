@@ -38,35 +38,35 @@ export default function DeliveryPartnerShipAgreement() {
                     <li>Ensure that all delivered items are handled with care and delivered intact.</li>
                 </ul>
                 <h2 className="text-xl font-bold mb-2 text-white">Payment:</h2>
-                <p className="mb-4">
+                <p className="mb-4 text-white">
                     The Company shall pay the Delivery Partner a fee for each completed delivery, as agreed upon by both parties. Payments shall be made on a [frequency] basis via [payment method].
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Account Verification:</h2>
-                <p className="mb-4">
+                <p className="mb-4 text-white">
                     The Delivery Partner&apos;s account shall be verified by the Company prior to commencing deliveries. Verification may include providing identification documents and completing a background check.
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Termination:</h2>
-                <p className="mb-4">
+                <p className="mb-4 text-white">
                     Either party may terminate this Agreement upon written notice to the other party. The Company reserves the right to terminate the Delivery Partner&apos;s account for any violation of this Agreement or failure to meet performance standards.
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Dispute Resolution:</h2>
-                <p className="mb-4">
+                <p className="mb-4 text-white">
                     In the event of a dispute regarding a delivery, the Delivery Partner and the Company shall work together to resolve the issue. If a resolution cannot be reached, the matter may be escalated to arbitration or mediation.
                 </p>
                 <h2 className="text-xl font-bold mb-2 text-white">Failure to Deliver:</h2>
-                <p className="mb-4">
+                <p className="mb-4 text-white">
                     If an order fails to be delivered for any reason, it will be marked as a dispute and investigated by the Company. The Delivery Partner may be required to provide an explanation and evidence regarding the failed delivery.
                 </p>
-                <p>
+                <p className='text-white'>
                     IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date first above written.
                 </p>
-                <p>
+                <p className='text-white'>
                     [Signature of Company] [Signature of Delivery Partner]
                 </p>
-                <p>
+                <p className='text-white'>
                     [Printed Name and Title] [Printed Name and Title]
                 </p>
-                <p>
+                <p className='text-white'>
                     [Date] [Date]
                 </p>
                 <Footer/>
