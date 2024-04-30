@@ -10,7 +10,7 @@ const Navbar = () => {
     };
 
     return (
-        <header className="flex justify-between items-center py-4">
+        <header className="flex justify-between items-center py-4 bg-black">
             <div className="text-5xl font-semibold">Yumz</div>
             <div className="space-x-4">
                 <Link href="/" className="hover:text-green-300 hover:underline">Home</Link>

@@ -6,7 +6,7 @@ import Navbar from '../navbar/page';
 export default function Home() {
 
     return (
-        <div className="text-white">
+        <div className="text-white bg-black">
             <div className="container mx-auto px-4 sm:px-6 lg:px-8 pt-4">
                 <div className="pb-16">
                 <Navbar />

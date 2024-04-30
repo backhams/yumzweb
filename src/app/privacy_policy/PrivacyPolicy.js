@@ -6,7 +6,7 @@ import Footer from '../footer/page';
 export default function PrivacyPolicy() {
     return (
         <>
-            <div className='container mx-auto px-4 sm:px-6 lg:px-8 pt-4'>
+            <div className='container mx-auto px-4 sm:px-6 lg:px-8 pt-4 bg-black'>
                 <Navbar />
                 <h1 className="text-2xl font-bold mb-4 mt-10">Privacy Policy</h1>
                 <p className="mb-4">
