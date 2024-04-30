@@ -1,7 +1,6 @@
 "use client"
 import React from 'react';
 import Navbar from '../navbar/page';
-import 'tailwindcss/tailwind.css';
 import Footer from '../footer/page';
 
 export default function RestaurantPartnershipAgreement() {
