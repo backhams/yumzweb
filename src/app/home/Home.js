@@ -6,8 +6,8 @@ import Navbar from '../navbar/page';
 export default function Home() {
 
     return (
-        <div className="text-white bg-black">
-            <div className="container mx-auto px-4 sm:px-6 lg:px-8 pt-4">
+        <div className="text-white mt-48">
+            <div className=" px-4 sm:px-6 lg:px-8 pt-4 w-full mx-auto">
                 <div className="pb-16">
                 <Navbar />
                     <div className="mt-8 md:flex md:items-center md:justify-between">
@@ -17,10 +17,10 @@ export default function Home() {
                                 Yumz offers an all-in-one platform for restaurants to list their menus, take orders, manage orders, and fulfill delivery orders. From ordering food to listing menus and taking orders to maintaining orders and delivery, Yumz handles it all.
                             </p>
                             <div className="mt-6 flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
-                                <a href="#" className="bg-orange-600 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded">
+                                <a href="#" className="bg-orange-600 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded text-center">
                                     Download on Play Store
                                 </a>
-                                <a href="#" className="bg-orange-600 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded">
+                                <a href="#" className="bg-orange-600 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded text-center">
                                     Download on App Store
                                 </a>
                             </div>

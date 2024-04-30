@@ -6,8 +6,9 @@ import Footer from '../footer/page';
 export default function DeliveryPartnerShipAgreement() {
     return (
         <>
-            <div className='container mx-auto px-4 sm:px-6 lg:px-8 pt-4 bg-black'>
+            <div className='mx-auto px-4 sm:px-6 lg:px-8 pt-4 bg-black mt-48'>
                 <Navbar />
+                <div className='md:mx-28 mb-16'>
                 <h1 className="text-2xl font-bold mb-4 mt-10 text-white">Delivery Partner Agreement</h1>
                 <p className="mb-4 text-white">
                     This Delivery Partner Agreement (&quot;Agreement&quot;) is entered into as of [Date], by and between [Your Company Name], a company organized and existing under the laws of [Jurisdiction], with its principal place of business at [Address] (&quot;Company&quot;), and [Delivery Partner Name], an individual residing at [Delivery Partner Address] (&quot;Delivery Partner&quot;).
@@ -69,7 +70,9 @@ export default function DeliveryPartnerShipAgreement() {
                 <p className='text-white'>
                     [Date] [Date]
                 </p>
+                </div>
                 <Footer/>
+               
             </div>
         </>
     );

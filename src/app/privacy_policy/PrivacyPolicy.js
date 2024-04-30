@@ -6,8 +6,9 @@ import Footer from '../footer/page';
 export default function PrivacyPolicy() {
     return (
         <>
-            <div className='container mx-auto px-4 sm:px-6 lg:px-8 pt-4 bg-black'>
+            <div className='mx-auto px-4 sm:px-6 lg:px-8 pt-4 bg-black mt-48'>
                 <Navbar />
+                <div className='md:mx-28 mb-16'>
                 <h1 className="text-2xl font-bold mb-4 mt-10 text-white">Privacy Policy</h1>
                 <p className="mb-4 text-white">
                     This Privacy Policy (&quot;Policy&quot;) explains how [Your Company Name] collects, uses, and discloses personal information collected from users (&quot;User&quot; or &quot;Users&quot;) of the [Your Website or App] website or mobile application (&quot;Service&quot;).
@@ -45,6 +46,7 @@ export default function PrivacyPolicy() {
                 <p className='text-white'>
                     This Privacy Policy was last updated on [Date].
                 </p>
+                </div>
                 <Footer/>
             </div>
         </>
