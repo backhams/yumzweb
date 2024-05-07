@@ -14,7 +14,7 @@ export default function PrivacyPolicy() {
                         Privacy Policy for Yumz
                         <br />
                         <br />
-                        Welcome to Yumz! This Privacy Policy outlines how Yumz ("we," "us," or "our") collects, uses, and shares information when you use our Yumz mobile application (the "App") or website (the "Site"). By accessing or using the App or Site, you agree to the collection, use, and sharing of information as described in this Privacy Policy. If you do not agree with this policy, please do not use the App or Site.
+                        Welcome to Yumz! This Privacy Policy outlines how Yumz (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) collects, uses, and shares information when you use our Yumz mobile application (the &quot;App&quot;) or website (the &quot;Site&quot;). By accessing or using the App or Site, you agree to the collection, use, and sharing of information as described in this Privacy Policy. If you do not agree with this policy, please do not use the App or Site.
                     </p>
                     <h2 className="text-xl font-bold mb-2 text-white">Information We Collect</h2>
                     <p className="mb-4 text-white">
@@ -44,7 +44,7 @@ export default function PrivacyPolicy() {
                         In order to ensure the quality and safety of our services, we may collect and process additional information for the verification of restaurants and delivery personnel, including but not limited to:
                         <br />
                         For restaurants: Business licenses, health inspection certificates, menu details, and other documentation to verify the legitimacy and compliance of their operations.
-                        For delivery personnel: Driver's licenses, proof of vehicle insurance, background checks, and other documentation to verify identity and qualifications.
+                        For delivery personnel: Driver&apos;s licenses, proof of vehicle insurance, background checks, and other documentation to verify identity and qualifications.
                     </p>
                     <p className="mb-4 text-white">
                         1.4 Location Information
@@ -113,9 +113,9 @@ export default function PrivacyPolicy() {
                         <br />
                         We take the security of your information seriously and employ appropriate technical, organizational, and administrative measures to protect against unauthorized access, disclosure, alteration, or destruction of your information. However, no method of transmission over the Internet or electronic storage is completely secure, and we cannot guarantee the absolute security of your information.
                     </p>
-                    <h2 className="text-xl font-bold mb-2 text-white">Children's Privacy</h2>
+                    <h2 className="text-xl font-bold mb-2 text-white">Children&apos;s Privacy</h2>
                     <p className="mb-4 text-white">
-                        7. Children's Privacy
+                        7. Children&apos;s Privacy
                         <br />
                         Our App and Site are not directed to children under the age of 13, and we do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently collected personal information from a child under the age of 13 without parental consent, we will take steps to delete such information as soon as possible.
                     </p>

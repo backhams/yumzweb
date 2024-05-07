@@ -11,7 +11,7 @@ export default function RestaurantTermsAndConditions() {
                 <div className='md:mx-28 mb-16'>
                     <h1 className="text-2xl font-bold mb-4 mt-10 text-white">Terms and Conditions for Restaurants</h1>
                     <p className="mb-4 text-white">
-                        These Terms and Conditions ("Terms") govern your use of the Yumz platform ("Platform") as a restaurant partner. By accessing or using the Platform, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the Platform.
+                        These Terms and Conditions (&quot;Terms&quot;) govern your use of the Yumz platform (&quot;Platform&quot;) as a restaurant partner. By accessing or using the Platform, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the Platform.
                     </p>
                     <h2 className="text-xl font-bold mb-2 text-white">Registration and Account</h2>
                     <p className="mb-4 text-white">
@@ -25,7 +25,7 @@ export default function RestaurantTermsAndConditions() {
                     </p>
                     <h2 className="text-xl font-bold mb-2 text-white">Orders and Commission</h2>
                     <p className="mb-4 text-white">
-                        3.1 You agree to pay a commission of 27% per order (the "Commission") to Yumz for orders placed through the Platform.<br />
+                        3.1 You agree to pay a commission of 27% per order (the &quot;Commission&quot;) to Yumz for orders placed through the Platform.<br />
                         3.2 The Commission covers the use of the Platform, payment processing, marketing, and other associated costs.<br />
                         3.3 Yumz reserves the right to adjust the Commission percentage with prior notice to restaurant partners.
                     </p>
