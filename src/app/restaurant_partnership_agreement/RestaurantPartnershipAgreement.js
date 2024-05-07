@@ -3,73 +3,96 @@ import React from 'react';
 import Navbar from '../navbar/page';
 import Footer from '../footer/page';
 
-export default function RestaurantPartnershipAgreement() {
+export default function RestaurantTermsAndConditions() {
     return (
         <>
             <div className='mx-auto px-4 sm:px-6 lg:px-8 pt-4 bg-black mt-48'>
                 <Navbar />
                 <div className='md:mx-28 mb-16'>
-                <h1 className="text-2xl font-bold mb-4 mt-10 text-white">Restaurant Partnership Agreement</h1>
-                <p className="mb-4 text-white">
-                    This Restaurant Partnership Agreement (&quot;Agreement&quot;) is entered into as of [Date], by and between [Platform Provider], a company organized and existing under the laws of [Jurisdiction], with its principal place of business at [Address] (&quot;Platform Provider&quot;), and [Restaurant Name], a restaurant located at [Restaurant Address] (&quot;Restaurant&quot;).
-                </p>
-                <h2 className="text-xl font-bold mb-2 text-white">Purpose:</h2>
-                <p className="mb-4 text-white">
-                    The purpose of this Agreement is to establish a partnership between Platform Provider and Restaurant for the provision of restaurant services through the Platform Provider&apos;s platform.
-                </p>
-                <h2 className="text-xl font-bold mb-2 text-white">Term:</h2>
-                <p className="mb-4 text-white">
-                    This Agreement shall commence on the Effective Date and shall continue in full force and effect until terminated by either party in accordance with the provisions of this Agreement.
-                </p>
-                <h2 className="text-xl font-bold mb-2 text-white">Responsibilities of Platform Provider:</h2>
-                <ul className="list-disc ml-6 mb-4 text-white">
-                    <li>Platform Access: Platform Provider shall provide Restaurant with access to its platform for the purpose of receiving and processing orders.</li>
-                    <li>Technical Support: Platform Provider shall provide technical support to Restaurant for any issues related to the use of the platform.</li>
-                    <li>Marketing: Platform Provider may, at its discretion, undertake marketing activities to promote the services offered by Restaurant through the platform.</li>
-                </ul>
-                <h2 className="text-xl font-bold mb-2 text-white">Responsibilities of Restaurant:</h2>
-                <ul className="list-disc ml-6 mb-4 text-white">
-                    <li>Menu Management: Restaurant shall be responsible for managing its menu on the platform, including updating prices, descriptions, and availability of items.</li>
-                    <li>Order Fulfillment: Restaurant shall fulfill orders received through the platform in a timely manner and in accordance with the terms specified by Platform Provider.</li>
-                    <li>Quality Control: Restaurant shall ensure that the quality of food and service provided to customers through the platform meets the standards set by Restaurant and complies with all applicable laws and regulations.</li>
-                </ul>
-                <h2 className="text-xl font-bold mb-2 text-white">Fees and Payments:</h2>
-                <ul className="list-disc ml-6 mb-4 text-white">
-                    <li>Commission: Platform Provider shall be entitled to a commission on all orders placed through the platform. The commission rate shall be as agreed upon by both parties and specified in a separate agreement.</li>
-                    <li>Payment Terms: Payments for orders received through the platform shall be processed by Platform Provider, and Restaurant shall receive payment from Platform Provider in accordance with the agreed-upon payment terms.</li>
-                </ul>
-                <h2 className="text-xl font-bold mb-2 text-white">Confidentiality:</h2>
-                <p className="mb-4 text-white">
-                    During the term of this Agreement and thereafter, both parties agree to maintain the confidentiality of any proprietary or confidential information disclosed by the other party.
-                </p>
-                <h2 className="text-xl font-bold mb-2 text-white">Termination:</h2>
-                <p className="mb-4 text-white">
-                    Either party may terminate this Agreement upon written notice to the other party in the event of a material breach of any provision of this Agreement by the other party, which breach is not cured within [number] days of written notice thereof.
-                </p>
-                <h2 className="text-xl font-bold mb-2 text-white">Governing Law:</h2>
-                <p className="mb-4 text-white">
-                    This Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction].
-                </p>
-                <h2 className="text-xl font-bold mb-2 text-white">Entire Agreement:</h2>
-                <p className="mb-4 text-white">
-                    This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether written or oral, relating to such subject matter.
-                </p>
-                <h2 className="text-xl font-bold mb-2 text-white">Amendments:</h2>
-                <p className="mb-4 text-white">
-                    This Agreement may be amended or modified only by a written instrument executed by both parties.
-                </p>
-                <p className='text-white'>
-                    IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date first above written.
-                </p>
-                <p className='text-white'>
-                    [Signature of Platform Provider] [Signature of Restaurant]
-                </p>
-                <p className='text-white'>
-                    [Printed Name and Title] [Printed Name and Title]
-                </p>
-                <p className='text-white'>
-                    [Date] [Date]
-                </p>
+                    <h1 className="text-2xl font-bold mb-4 mt-10 text-white">Terms and Conditions for Restaurants</h1>
+                    <p className="mb-4 text-white">
+                        These Terms and Conditions ("Terms") govern your use of the Yumz platform ("Platform") as a restaurant partner. By accessing or using the Platform, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the Platform.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Registration and Account</h2>
+                    <p className="mb-4 text-white">
+                        1.1 To register as a restaurant partner on the Platform, you must provide accurate and complete information about your restaurant, including but not limited to business name, contact details, menu, and necessary documentation for verification.<br />
+                        1.2 You are responsible for maintaining the confidentiality of your account and password and for restricting access to your account. You agree to accept responsibility for all activities that occur under your account.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Listing and Menu</h2>
+                    <p className="mb-4 text-white">
+                        2.1 By listing your restaurant on the Platform, you agree to provide accurate and up-to-date information about your menu, pricing, availability, and any other relevant details.<br />
+                        2.2 You have the sole responsibility for ensuring the quality, accuracy, and legality of the food items listed on the Platform.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Orders and Commission</h2>
+                    <p className="mb-4 text-white">
+                        3.1 You agree to pay a commission of 27% per order (the "Commission") to Yumz for orders placed through the Platform.<br />
+                        3.2 The Commission covers the use of the Platform, payment processing, marketing, and other associated costs.<br />
+                        3.3 Yumz reserves the right to adjust the Commission percentage with prior notice to restaurant partners.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Payment</h2>
+                    <p className="mb-4 text-white">
+                        4.1 Yumz will remit the payment for orders, minus the Commission, to the restaurant partner on a regular basis, as agreed upon between Yumz and the restaurant partner.<br />
+                        4.2 Payments will be made through the preferred payment method specified by the restaurant partner.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Delivery and Fulfillment</h2>
+                    <p className="mb-4 text-white">
+                        5.1 You are responsible for timely and accurate fulfillment of orders placed through the Platform.<br />
+                        5.2 If an order is not delivered within 2 hours of the customer placing the order, the order will be placed in the dispute order list. You must resolve the dispute promptly to bring your restaurant back online.<br />
+                        5.3 If you accept an order and the delivery partner fails to accept the order or does not reach the restaurant location, the order will be placed in the dispute list. Repeat occurrences may lead to termination of your account.<br />
+                        5.4 You should not come online unless you are ready to fulfill orders. Failure to fulfill orders may result in account termination.<br />
+                        5.5 In case of any delays or issues with order fulfillment, you are required to promptly notify the customer and Yumz.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Cancellation and Refunds</h2>
+                    <p className="mb-4 text-white">
+                        6.1 You may cancel an order if it cannot be fulfilled due to reasons such as unavailability of ingredients or unforeseen circumstances. However, you must inform Yumz and the customer promptly.<br />
+                        6.2 Refunds for canceled orders will be handled in accordance with the Yumz refund policy.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Quality Assurance</h2>
+                    <p className="mb-4 text-white">
+                        7.1 You agree to maintain high standards of food quality, hygiene, and safety in the preparation and delivery of food items listed on the Platform.<br />
+                        7.2 Yumz reserves the right to conduct periodic inspections or audits of your restaurant premises to ensure compliance with quality standards.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Customer Service</h2>
+                    <p className="mb-4 text-white">
+                        8.1 You are responsible for providing prompt and courteous customer service to users of the Platform, including addressing inquiries, complaints, and feedback in a timely manner.<br />
+                        8.2 Any disputes or complaints from customers should be resolved professionally and amicably, with the aim of maintaining customer satisfaction.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Advertising and Promotions</h2>
+                    <p className="mb-4 text-white">
+                        9.1 Yumz may feature your restaurant and menu items in promotional campaigns, advertisements, or marketing materials to promote the Platform.<br />
+                        9.2 You agree to cooperate with Yumz in promotional activities and provide any necessary assistance or materials as requested.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Legal Compliance</h2>
+                    <p className="mb-4 text-white">
+                        10.1 You agree to comply with all applicable laws, regulations, and industry standards governing the operation of restaurants and the sale of food products.<br />
+                        10.2 You are responsible for obtaining any necessary licenses, permits, or certifications required for operating your restaurant and selling food items through the Platform.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Data Privacy</h2>
+                    <p className="mb-4 text-white">
+                        11.1 You acknowledge and agree that Yumz may collect, store, and process personal data provided by you or generated through your use of the Platform in accordance with the Yumz Privacy Policy.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Intellectual Property</h2>
+                    <p className="mb-4 text-white">
+                        12.1 You retain all rights to the intellectual property associated with your restaurant, including but not limited to trademarks, logos, and menu items.<br />
+                        12.2 By listing your restaurant on the Platform, you grant Yumz a non-exclusive, worldwide, royalty-free license to use, display, and promote your restaurant name, logo, and menu for the purposes of operating and promoting the Platform.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Indemnification</h2>
+                    <p className="mb-4 text-white">
+                        13.1 You agree to indemnify and hold harmless Yumz, its affiliates, officers, directors, employees, and agents from any claims, damages, losses, liabilities, costs, or expenses arising out of or related to your use of the Platform or any breach of these Terms.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Termination</h2>
+                    <p className="mb-4 text-white">
+                        14.1 Yumz reserves the right to terminate or suspend your access to the Platform at any time, with or without cause, and without prior notice.<br />
+                        14.2 Upon termination, all rights and obligations under these Terms will cease, except those that by their nature should survive termination.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Changes to Terms</h2>
+                    <p className="mb-4 text-white">
+                        15.1 Yumz reserves the right to update or modify these Terms at any time, and any changes will be effective upon posting the revised Terms on the Platform. Your continued use of the Platform after the posting of changes constitutes your acceptance of such changes.
+                    </p>
+                    <h2 className="text-xl font-bold mb-2 text-white">Contact Information</h2>
+                    <p className="mb-4 text-white">
+                        16.1 If you have any questions, concerns, or requests regarding these Terms or our services, please contact us at yumz.contact@gmail.com.
+                    </p>
                 </div>
                 <Footer/>
             </div>
