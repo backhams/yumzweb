@@ -33,7 +33,7 @@ const Navbar = () => {
 
     return (
         <header className="flex flex-col w-full sm:flex-row justify-between items-center py-4 bg-black fixed top-0">
-            <div className="text-5xl font-semibol mb-4 sm:mb-0 text-orange-500">Yumz</div>
+            <div className="text-5xl font-semibol mb-4 sm:mb-0 text-orange-500">Flavo</div>
             <div className="flex flex-wrap justify-center sm:justify-start space-x-4 sm:space-x-8 sm:ml-4 mr-10">
                 <Link href="/" className="block text-center hover:text-green-300 hover:underline text-white mb-2 sm:mb-0">Home</Link>
                 <Link href="help_center" className="block text-center hover:text-green-300 hover:underline text-white mb-2 sm:mb-0">Get Help</Link>
