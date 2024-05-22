@@ -9,32 +9,32 @@ export default function HelpCenter() {
     const content = [
         {
             title: "How to Register",
-            text: `To register on Yumz, simply follow these steps:
+            text: `To register on Flavo, simply follow these steps:
             
-            1. Open the Yumz app or website.
+            1. Open the Flavo app or website.
             2. Click on the "Sign Up" or "Register" button.
             3. Fill in the required information, such as your name, email address, and password.
             4. Agree to the terms and conditions.
             5. Click on the "Register" or "Sign Up" button to create your account.
             
-            That's it! You are now registered on Yumz and can start exploring and enjoying our services.`
+            That's it! You are now registered on Flavo and can start exploring and enjoying our services.`
         },
         {
             title: "How to Get Verified",
-            text: `To get verified on Yumz, follow these steps:
+            text: `To get verified on Flavo, follow these steps:
             
-            1. Log in to your Yumz account.
+            1. Log in to your Flavo account.
             2. Navigate to the verification section in your account settings.
             3. Follow the instructions to provide the necessary documentation for verification, such as your ID or business license.
             4. Submit your documents for review.
             
-            Once your documents are reviewed and approved, your account will be verified, and you'll gain access to additional features and benefits on Yumz.`
+            Once your documents are reviewed and approved, your account will be verified, and you'll gain access to additional features and benefits on Flavo.`
         },
         {
             title: "How to Cancel an Order",
-            text: `To cancel an order on Yumz, follow these steps:
+            text: `To cancel an order on Flavo, follow these steps:
             
-            1. Open the Yumz app.
+            1. Open the Flavo app.
             2. Go to your order history or active orders section.
             3. Find the order you wish to cancel and select it.
             4. Look for the cancellation option and follow the prompts to cancel your order.
@@ -43,7 +43,7 @@ export default function HelpCenter() {
         },
         {
             title: "Payment",
-            text: `Yumz offers multiple payment options to make your ordering experience convenient and hassle-free. You can pay for your orders using:
+            text: `Flavo offers multiple payment options to make your ordering experience convenient and hassle-free. You can pay for your orders using:
             
             1. Credit or Debit Card
             2. Online Wallets
@@ -60,7 +60,7 @@ export default function HelpCenter() {
             3. Food delivered late or cold.
             4. Food quality does not meet expectations.
             
-            If you encounter any of these issues with your order, you can file a dispute through the Yumz app or contact our customer support team for assistance.`
+            If you encounter any of these issues with your order, you can file a dispute through the Flavo app or contact our customer support team for assistance.`
         },
         {
             title: "Customer Rejects Order or Undeliverable",
@@ -76,7 +76,7 @@ export default function HelpCenter() {
             title: "How to Change Account Settings",
             text: `Need to update your account information? Follow these simple steps:
         
-            1. Log in to your Yumz account.
+            1. Log in to your Flavo account.
             2. Navigate to the account settings section.
             3. Locate the option to edit your profile or account details.
             4. Make the desired changes, such as updating your email address or password.
@@ -88,7 +88,7 @@ export default function HelpCenter() {
             title: "How to Track Your Order",
             text: `Wondering when your delicious meal will arrive? Here's how to track your order:
         
-            1. Open the Yumz app.
+            1. Open the Flavo app.
             2. Go to your order history or active orders section.
             3. Find the order you want to track and select it.
             4. Look for the option to track your order status.
@@ -100,7 +100,7 @@ export default function HelpCenter() {
             title: "How to Leave Feedback",
             text: `Have a suggestion or want to share your experience? Leaving feedback is easy:
         
-            1. Log in to your Yumz account.
+            1. Log in to your Flavo account.
             2. Navigate to the order history or recent orders section.
             3. Find the order you want to leave feedback for and select it.
             4. Look for the option to leave feedback or rate your experience.
@@ -112,7 +112,7 @@ export default function HelpCenter() {
             title: "How to Contact Customer Support",
             text: `Encountered an issue or need assistance? Our customer support team is here to help:
         
-            1. Open the Yumz app.
+            1. Open the Flavo app.
             2. Navigate to the help or support section.
             3. Look for the option to contact customer support.
             4. Choose your preferred method of contact, such as live chat or email.
@@ -124,19 +124,19 @@ export default function HelpCenter() {
             title: "How to Redeem Promotional Codes",
             text: `Got a promotional code? Here's how to redeem it for discounts or rewards:
         
-            1. Log in to your Yumz account.
+            1. Log in to your Flavo account.
             2. Proceed to the checkout page when placing your order.
             3. Look for the option to apply a promotional code or voucher.
             4. Enter the code in the designated field.
             5. Click on the apply button to redeem the code and enjoy your discount.
         
-            It's that easy to save on your next order with Yumz promotional codes!`
+            It's that easy to save on your next order with Flavo promotional codes!`
         },
         {
             title: "How to View Order History",
             text: `Want to check your past orders? Here's how to view your order history:
         
-            1. Open the Yumz app.
+            1. Open the Flavo app.
             2. Navigate to your account settings or profile.
             3. Find the option for order history or past orders.
             4. Select the timeframe or specific order you wish to view.
@@ -148,19 +148,19 @@ export default function HelpCenter() {
             title: "How to Add Items to Your Cart",
             text: `Ready to place an order? Here's how to add items to your cart:
         
-            1. Browse through the available menu items on the Yumz app or website.
+            1. Browse through the available menu items on the Flavo app or website.
             2. Select the items you want to order by clicking or tapping on them.
             3. Choose the quantity and any customization options, such as toppings or sides.
             4. Click on the "Add to Cart" button for each item.
             5. Review your cart to ensure all desired items are included before proceeding to checkout.
         
-            Adding items to your cart is the first step to enjoying a delicious meal with Yumz!`
+            Adding items to your cart is the first step to enjoying a delicious meal with Flavo!`
         },
         {
             title: "How to Change or Cancel Your Order",
             text: `Need to make changes to your order or cancel it? Follow these steps:
         
-            1. Log in to your Yumz account.
+            1. Log in to your Flavo account.
             2. Go to your order history or active orders section.
             3. Find the order you wish to modify or cancel and select it.
             4. Look for the options to change items or cancel the order.
@@ -174,7 +174,7 @@ export default function HelpCenter() {
         
             1. Receive your order from the delivery partner.
             2. Review the delivery experience, including timeliness and service quality.
-            3. Open the Yumz app and navigate to your order history.
+            3. Open the Flavo app and navigate to your order history.
             4. Find the completed order and select it.
             5. Look for the option to rate the delivery experience and provide feedback.
         
