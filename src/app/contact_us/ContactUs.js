@@ -21,7 +21,7 @@ export default function ContactUs() {
                     <div>
                         <h2 className="text-xl font-bold mb-2 text-white">Contact Information</h2>
                         <p className="mb-2 text-white">Email: yumzinform@gmail.com</p>
-                        <p className="mb-2 text-white">Phone: +1234567890</p>
+                        <p className="mb-2 text-white">Phone: +91 9612557102</p>
                     </div>
                 </div>
                 <Footer />
