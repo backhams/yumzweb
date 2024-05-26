@@ -11,7 +11,7 @@ export default function ContactUs() {
                 <div className='md:mx-28 mb-16'>
                     <h1 className="text-2xl font-bold mb-4 mt-10 text-white">Contact Us</h1>
                     <p className="mb-4 text-white">
-                        If you have any questions, feedback, or inquiries, please feel free to contact us via email at <a href="mailto:yumzinform@gmail.com" className="text-orange-500">yumzinform@gmail.com</a> or WhatsApp us at <a href="https://wa.me/1234567890" className="text-orange-500">+1234567890</a>.
+                        If you have any questions, feedback, or inquiries, please feel free to contact us via email at <a href="mailto:yumzinform@gmail.com" className="text-orange-500">yumzinform@gmail.com</a> or WhatsApp us at <a href="https://wa.me/+91 9612557102" className="text-orange-500">+91 9612557102</a>.
                     </p>
                     {/* Add your contact form or contact information here */}
                     <div className="mb-8">
