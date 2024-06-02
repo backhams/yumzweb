@@ -10,7 +10,7 @@ export default function AboutUs() {
                 <div className='md:mx-28 mb-16'>
                     <h1 className="text-2xl font-bold mb-4 mt-10 text-white">About Us</h1>
                     <p className="mb-4 text-white">
-                        Welcome to Flavo, powered by xfery.com – your all-in-one platform revolutionizing the food industry!
+                        Welcome to Flavo (xferyfood), powered by xfery.com – your all-in-one platform revolutionizing the food industry!
                     </p>
                     <p className="mb-4 text-white">
                         At Flavo, we&apos;ve crafted a seamless experience where customers can indulge in their favorite dishes with just a few taps. Our innovative food delivery app connects customers with a diverse range of restaurants, ensuring that cravings are satisfied with ease.
