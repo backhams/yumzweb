@@ -11,7 +11,7 @@ export default function page() {
 
 export function generateMetadata() {
     return {
-      title: "Yumz | Delivery Partnership",
+      title: "FleVo | Delivery Partnership",
       description:
         "Browse menus, place orders, and enjoy doorstep delivery from nearby restaurants with ease. Simplifying food delivery, one meal at a time!",
       keywords:

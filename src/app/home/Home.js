@@ -31,9 +31,9 @@ export default function Home() {
                     </div>
                     <div className="mt-8 md:flex md:items-center md:justify-between">
                         <div className="md:w-2/3">
-                            <h1 className="text-3xl font-bold">All-in-One Food Ordering App by Flavo</h1>
+                            <h1 className="text-3xl font-bold">All-in-One Food Ordering App by FleVo</h1>
                             <p className="mt-4 text-lg">
-                                Flavo offers an all-in-one platform for restaurants to list their menus, take orders, manage orders, and fulfill delivery orders. From ordering food to listing menus and taking orders to maintaining orders and delivery, Flavo handles it all.
+                                FleVo offers an all-in-one platform for restaurants to list their menus, take orders, manage orders, and fulfill delivery orders. From ordering food to listing menus and taking orders to maintaining orders and delivery, FleVo handles it all.
                             </p>
                             <div className="mt-6 flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
                                 <a href="https://play.google.com/store" className="bg-orange-600 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded text-center">
@@ -141,10 +141,10 @@ export default function Home() {
                     <h2 className="text-2xl font-bold text-center">Testimonials</h2>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8">
                         <div className="text-center p-4 border rounded-lg">
-                            <p className="mt-2 text-gray-400">"Flavo has completely transformed the way I order food. It's so convenient and easy to use!" - Jane Doe</p>
+                            <p className="mt-2 text-gray-400">"FleVo has completely transformed the way I order food. It's so convenient and easy to use!" - Jane Doe</p>
                         </div>
                         <div className="text-center p-4 border rounded-lg">
-                            <p className="mt-2 text-gray-400">"As a restaurant owner, Flavo's order management system has streamlined our operations." - John Smith</p>
+                            <p className="mt-2 text-gray-400">"As a restaurant owner, FleVo's order management system has streamlined our operations." - John Smith</p>
                         </div>
                         <div className="text-center p-4 border rounded-lg">
                             <p className="mt-2 text-gray-400">"Real-time tracking is a game-changer. I always know when my food will arrive." - Sarah Lee</p>

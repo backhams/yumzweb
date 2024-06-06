@@ -12,7 +12,7 @@ export default function DeliveryPartnerShipAgreement() {
                 <div className='md:mx-28 mb-16'>
                     <h1 className="text-2xl font-bold mb-4 mt-10 text-white">Delivery Partner Agreement</h1>
                     <p className="mb-4 text-white">
-                        These Terms and Conditions (&quot;Terms&quot;) govern your participation as a delivery partner (&quot;Delivery Partner&quot;) with Flavo (&quot;Platform&quot;). By signing up or using the Platform, you agree to these Terms. If you do not agree, do not use the Platform.
+                        These Terms and Conditions (&quot;Terms&quot;) govern your participation as a delivery partner (&quot;Delivery Partner&quot;) with FleVo (&quot;Platform&quot;). By signing up or using the Platform, you agree to these Terms. If you do not agree, do not use the Platform.
                     </p>
                     
                     <h2 className="text-xl font-bold mb-2 text-white">Eligibility</h2>
@@ -21,7 +21,7 @@ export default function DeliveryPartnerShipAgreement() {
                         1.2 You must possess a valid driving license if using a motor vehicle for deliveries.<br />
                         1.3 You must have access to a vehicle (bike, motorbike, car, etc.) that is in good working condition.<br />
                         1.4 You must have valid vehicle insurance as per local laws.<br />
-                        1.5 You must possess a smartphone with the Flavo app installed to receive orders and updates.
+                        1.5 You must possess a smartphone with the FleVo app installed to receive orders and updates.
                     </p>
 
                     <h2 className="text-xl font-bold mb-2 text-white">Registration and Account</h2>
@@ -40,7 +40,7 @@ export default function DeliveryPartnerShipAgreement() {
 
                     <h2 className="text-xl font-bold mb-2 text-white">Payment</h2>
                     <p className="mb-4 text-white">
-                        4.1 You will receive payment for each completed delivery, as agreed upon by you and Flavo.<br />
+                        4.1 You will receive payment for each completed delivery, as agreed upon by you and FleVo.<br />
                         4.2 Payments will be made on a regular basis through the preferred payment method specified by you.<br />
                         4.3 No commission or fees will be deducted from your earnings for completed deliveries.
                     </p>
@@ -69,13 +69,13 @@ export default function DeliveryPartnerShipAgreement() {
 
                     <h2 className="text-xl font-bold mb-2 text-white">Termination</h2>
                     <p className="mb-4 text-white">
-                        8.1 Flavo reserves the right to terminate or suspend your access to the Platform at any time, with or without cause, and without prior notice.<br />
+                        8.1 FleVo reserves the right to terminate or suspend your access to the Platform at any time, with or without cause, and without prior notice.<br />
                         8.2 Upon termination, all rights and obligations under these Terms will cease, except those that by their nature should survive termination.
                     </p>
 
                     <h2 className="text-xl font-bold mb-2 text-white">Changes to Terms</h2>
                     <p className="mb-4 text-white">
-                        9.1 Flavo reserves the right to update or modify these Terms at any time. Changes will be effective upon posting the revised Terms on the Platform. Your continued use of the Platform after changes are posted constitutes acceptance of the changes.
+                        9.1 FleVo reserves the right to update or modify these Terms at any time. Changes will be effective upon posting the revised Terms on the Platform. Your continued use of the Platform after changes are posted constitutes acceptance of the changes.
                     </p>
 
                     <h2 className="text-xl font-bold mb-2 text-white">Contact Information</h2>

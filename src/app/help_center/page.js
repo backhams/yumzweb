@@ -10,7 +10,7 @@ export default function page() {
 }
 export function generateMetadata() {
     return {
-      title: "Flavo | Help Center",
+      title: "FleVo | Help Center",
       description:
         "Browse menus, place orders, and enjoy doorstep delivery from nearby restaurants with ease. Simplifying food delivery, one meal at a time!",
       keywords:

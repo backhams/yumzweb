@@ -11,10 +11,10 @@ export default function PrivacyPolicy() {
                 <div className='md:mx-28 mb-16'>
                     <h1 className="text-2xl font-bold mb-4 mt-10 text-white">Privacy Policy</h1>
                     <p className="mb-4 text-white">
-                        Privacy Policy for Flavo
+                        Privacy Policy for FleVo
                         <br />
                         <br />
-                        Welcome to Flavo! This Privacy Policy outlines how Flavo (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) collects, uses, and shares information when you use our Flavo mobile application (the &quot;App&quot;) or website (the &quot;Site&quot;). By accessing or using the App or Site, you agree to the collection, use, and sharing of information as described in this Privacy Policy. If you do not agree with this policy, please do not use the App or Site.
+                        Welcome to FleVo! This Privacy Policy outlines how FleVo (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) collects, uses, and shares information when you use our FleVo mobile application (the &quot;App&quot;) or website (the &quot;Site&quot;). By accessing or using the App or Site, you agree to the collection, use, and sharing of information as described in this Privacy Policy. If you do not agree with this policy, please do not use the App or Site.
                     </p>
                     <h2 className="text-xl font-bold mb-2 text-white">Information We Collect</h2>
                     <p className="mb-4 text-white">

@@ -10,10 +10,10 @@ export default function AboutUs() {
                 <div className='md:mx-28 mb-16'>
                     <h1 className="text-2xl font-bold mb-4 mt-10 text-white">About Us</h1>
                     <p className="mb-4 text-white">
-                        Welcome to Flavo (xferyfood), powered by xfery.com – your all-in-one platform revolutionizing the food industry!
+                        Welcome to FleVo (xferyfood), powered by xfery.com – your all-in-one platform revolutionizing the food industry!
                     </p>
                     <p className="mb-4 text-white">
-                        At Flavo, we&apos;ve crafted a seamless experience where customers can indulge in their favorite dishes with just a few taps. Our innovative food delivery app connects customers with a diverse range of restaurants, ensuring that cravings are satisfied with ease.
+                        At FleVo, we&apos;ve crafted a seamless experience where customers can indulge in their favorite dishes with just a few taps. Our innovative food delivery app connects customers with a diverse range of restaurants, ensuring that cravings are satisfied with ease.
                     </p>
                     <p className="mb-4 text-white">
                         For restaurant owners, we offer a powerful platform to showcase their menus and attract hungry customers. By listing their offerings on our app, restaurants can expand their reach and grow their business in the digital age.
@@ -25,10 +25,10 @@ export default function AboutUs() {
                         Our commitment doesn&apos;t stop there. We prioritize the success of our partners by providing necessary training, support, and timely payments for completed deliveries. Whether it&apos;s resolving disputes or handling customer complaints, we&apos;ve got you covered every step of the way.
                     </p>
                     <p className="mb-4 text-white">
-                        With Flavo, it&apos;s more than just food delivery—it&apos;s a partnership built on trust, reliability, and excellence. Join us in redefining the food delivery experience for customers, restaurants, and delivery partners alike.
+                        With FleVo, it&apos;s more than just food delivery—it&apos;s a partnership built on trust, reliability, and excellence. Join us in redefining the food delivery experience for customers, restaurants, and delivery partners alike.
                     </p>
                     <p className="mb-4 text-white">
-                        Experience the future of food delivery with Flavo. Welcome to a world where convenience meets culinary delight.
+                        Experience the future of food delivery with FleVo. Welcome to a world where convenience meets culinary delight.
                     </p>
                 </div>
                 <Footer />
