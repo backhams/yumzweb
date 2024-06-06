@@ -12,7 +12,7 @@ export default function ContactUs() {
                 <div className='md:mx-28 mb-16'>
                     <h1 className="text-2xl font-bold mb-4 mt-10 text-white">Contact Us</h1>
                     <p className="mb-4 text-white">
-                        If you have any questions, feedback, or inquiries, please feel free to contact us via email at <a href="mailto:yumzinform@gmail.com" className="text-orange-500 hover:underline">yumzinform@gmail.com</a> or WhatsApp us at <a href="https://wa.me/+91 9612557102" className="text-orange-500 hover:underline">+91 9612557102</a>.
+                        If you have any questions, feedback, or inquiries, please feel free to contact us via email at <a href="mailto:flevocares@gmail.com" className="text-orange-500 hover:underline">flevocares@gmail.com</a> or WhatsApp us at <a href="https://wa.me/+91 9612557102" className="text-orange-500 hover:underline">+91 9612557102</a>.
                     </p>
                     <div className="mb-8">
                         {/* <h2 className="text-xl font-bold mb-2 text-white">Contact Form</h2> */}
@@ -21,7 +21,7 @@ export default function ContactUs() {
                     <div className="bg-gray-800 p-6 rounded-lg shadow-md">
                         <h2 className="text-xl font-bold mb-4 text-white border-b border-gray-600 pb-2">Contact Information</h2>
                         <p className="mb-4 text-white">
-                            <span className="font-semibold">Email:</span> <a href="mailto:yumzinform@gmail.com" className="text-orange-500 hover:underline">yumzinform@gmail.com</a>
+                            <span className="font-semibold">Email:</span> <a href="mailto:flevocares@gmail.com" className="text-orange-500 hover:underline">flevocares@gmail.com</a>
                         </p>
                         <p className="mb-4 text-white">
                             <span className="font-semibold">Phone:</span> <a href="https://wa.me/+91 9612557102" className="text-orange-500 hover:underline">+91 9612557102</a>

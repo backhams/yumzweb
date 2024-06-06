@@ -156,7 +156,7 @@ export default function Home() {
                     <h2 className="text-2xl font-bold text-center">Contact Us</h2>
                     <div className="text-center mt-8">
                         <p className="text-gray-400">Have questions or need support? Get in touch with us!</p>
-                        <a href="mailto:yumzinform@gmail.com " className="mt-4 block bg-orange-600 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded mx-auto w-40">Contact Us</a>
+                        <a href="mailto:flevocares@gmail.com" className="mt-4 block bg-orange-600 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded mx-auto w-40">Contact Us</a>
                     </div>
                 </div>
             </div>
